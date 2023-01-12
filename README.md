@@ -1,9 +1,9 @@
 # Web-dev-Projects
 
-Fully Responsive design:
+**Fully Responsive design:**
 
 
-1.Learning journal
+**1.Learning journal**
 https://effortless-kringle-e60bf8.netlify.app/
 
 figmafile:
@@ -11,7 +11,7 @@ figmafile:
 https://www.figma.com/file/49reLMuUzlBYCFpoS3RDl7/Learning-Journal%2FBlog-(Copy)?node-id=0%3A1&t=F8ssGsDdCOuKwdTz-0
 
 
-2.Ordering app:
+**2.Ordering app:**
 https://food-ordering-appl.netlify.app/
 
 figma
@@ -21,10 +21,7 @@ file:https://www.figma.com/file/N66TG6OUpwbJqYUiBFiUPZ/Mobile-Restaurant-Menu-(C
 
 
 
-
-
-
-I have created clone of few website:
+**I have created clone of few website:**
 
 figma files
 
