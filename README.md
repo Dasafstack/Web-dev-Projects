@@ -37,6 +37,28 @@ screenshot:![image](https://user-images.githubusercontent.com/121917455/21218742
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Design:
 1.https://www.figma.com/file/oFajJFk79963TALbkBzsHV/Random-Password-Generator-(New-version)-(Copy)?t=jB4znngfIuICos47-0
 
