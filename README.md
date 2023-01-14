@@ -2,6 +2,7 @@
 
 **Fully Responsive design:**
 
+please check the mobile view as well
 
 **1.Learning journal**
 https://effortless-kringle-e60bf8.netlify.app/
