@@ -3,6 +3,7 @@
 **API projects:**
 
 1.Movie finder website using omDB api:
+Desktop:
 https://splendorous-jalebi-7991aa.netlify.app/
 
 **Fully Responsive design:**
