@@ -1,5 +1,9 @@
 # Web-dev-Projects
 
+React page using props
+
+https://vocal-custard-f361fa.netlify.app/
+
 **API projects:**
 
 1.Movie finder website using omDB api:
