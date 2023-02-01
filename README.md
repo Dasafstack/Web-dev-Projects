@@ -18,7 +18,7 @@ React Projects:
 please check the mobile view as well
 
       **1.Learning journal**
-     ** https://effortless-kringle-e60bf8.netlify.app/**
+** https://effortless-kringle-e60bf8.netlify.app/**
 
       figmafile:
 
@@ -26,7 +26,7 @@ please check the mobile view as well
 
 
       **2.Ordering app:**
-      **https://food-ordering-appl.netlify.app/**
+**https://food-ordering-appl.netlify.app/**
 
       figma
 
@@ -38,7 +38,7 @@ please check the mobile view as well
 
      Desktop:
 
-     https://splendorous-jalebi-7991aa.netlify.app/
+https://splendorous-jalebi-7991aa.netlify.app/
 **I have created clone of few website:**
 
 figma files
