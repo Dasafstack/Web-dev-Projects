@@ -6,11 +6,11 @@ React Projects:
 
           Using hooks and props
 
-          **https://polite-blancmange-cd4460.netlify.app/**
+**https://polite-blancmange-cd4460.netlify.app/**
 
           React static page using props
 
-          **https://vocal-custard-f361fa.netlify.app/**
+**https://vocal-custard-f361fa.netlify.app/**
 
 
 **Fully Responsive design:**
