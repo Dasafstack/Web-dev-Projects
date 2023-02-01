@@ -12,9 +12,6 @@ React static page using props
 
 https://vocal-custard-f361fa.netlify.app/
 
-Desktop:
-
-https://splendorous-jalebi-7991aa.netlify.app/
 
 **Fully Responsive design:**
 
@@ -39,7 +36,9 @@ file:https://www.figma.com/file/N66TG6OUpwbJqYUiBFiUPZ/Mobile-Restaurant-Menu-(C
 
 1.Movie finder website using omDB api:
 
+Desktop:
 
+https://splendorous-jalebi-7991aa.netlify.app/
 **I have created clone of few website:**
 
 figma files
