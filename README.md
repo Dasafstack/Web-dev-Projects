@@ -6,11 +6,11 @@ React Projects:
 
           Using hooks and props
 
-          https://polite-blancmange-cd4460.netlify.app/
+          **https://polite-blancmange-cd4460.netlify.app/**
 
           React static page using props
 
-          https://vocal-custard-f361fa.netlify.app/
+          **https://vocal-custard-f361fa.netlify.app/**
 
 
 **Fully Responsive design:**
@@ -18,7 +18,7 @@ React Projects:
 please check the mobile view as well
 
       **1.Learning journal**
-      https://effortless-kringle-e60bf8.netlify.app/
+     ** https://effortless-kringle-e60bf8.netlify.app/**
 
       figmafile:
 
@@ -26,7 +26,7 @@ please check the mobile view as well
 
 
       **2.Ordering app:**
-      https://food-ordering-appl.netlify.app/
+      **https://food-ordering-appl.netlify.app/**
 
       figma
 
