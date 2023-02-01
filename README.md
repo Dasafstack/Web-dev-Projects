@@ -2,15 +2,15 @@
 
 React Projects:
 
-Food ordering app:
+          Food ordering app:
 
-Using hooks and props
+          Using hooks and props
 
-https://polite-blancmange-cd4460.netlify.app/
+          https://polite-blancmange-cd4460.netlify.app/
 
-React static page using props
+          React static page using props
 
-https://vocal-custard-f361fa.netlify.app/
+          https://vocal-custard-f361fa.netlify.app/
 
 
 **Fully Responsive design:**
@@ -32,13 +32,13 @@ please check the mobile view as well
 
       file:https://www.figma.com/file/N66TG6OUpwbJqYUiBFiUPZ/Mobile-Restaurant-Menu-(Copy)?t=wEjpb5Eoen3GqK1S-0
 
-**API projects:**
+     **API projects:**
 
-1.Movie finder website using omDB api:
+     1.Movie finder website using omDB api:
 
-Desktop:
+     Desktop:
 
-https://splendorous-jalebi-7991aa.netlify.app/
+     https://splendorous-jalebi-7991aa.netlify.app/
 **I have created clone of few website:**
 
 figma files
