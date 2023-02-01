@@ -4,7 +4,7 @@ React Projects:
 
 Food ordering app:
 
-Using hooks and props
+Using hooks and props- Checkout is broken . netlify setup issue
 
 https://polite-blancmange-cd4460.netlify.app/
 
