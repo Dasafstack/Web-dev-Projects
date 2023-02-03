@@ -4,7 +4,7 @@ React Projects:
 
           Food ordering app:
 
-          Using hooks and props
+          Using states and props
 
 **https://polite-blancmange-cd4460.netlify.app/**
 
