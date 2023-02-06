@@ -4,7 +4,7 @@
 
 **Food ordering app:**
 
- ######Using states and props.Desktop
+ Using states and props.Desktop
 
  https://polite-blancmange-cd4460.netlify.app/
 
