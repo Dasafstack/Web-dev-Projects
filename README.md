@@ -11,7 +11,7 @@
 
 **Fully Responsive design:**
 
-#######please check the mobile view as well
+please check the mobile view as well
 
 **1.Learning journal**
 
@@ -34,7 +34,7 @@ https://www.figma.com/file/N66TG6OUpwbJqYUiBFiUPZ/Mobile-Restaurant-Menu-(Copy)?
 
 **API projects:**
 
-#######Movie finder website using omDB api:
+Movie finder website using omDB api:
 
 Desktop:
 
