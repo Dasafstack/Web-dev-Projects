@@ -2,11 +2,11 @@
 
 **React Projects:**
 
-****Food ordering app:
+**Food ordering app:**
 
           Using states and props.Desktop
 
-          **https://polite-blancmange-cd4460.netlify.app/**
+          (https://polite-blancmange-cd4460.netlify.app/)
 
 
 **Fully Responsive design:**
@@ -15,20 +15,22 @@ please check the mobile view as well
 
 **1.Learning journal**
 
-          ** https://effortless-kringle-e60bf8.netlify.app/**
+          (https://effortless-kringle-e60bf8.netlify.app/)
 
           figmafile:
 
-          https://www.figma.com/file/49reLMuUzlBYCFpoS3RDl7/Learning-Journal%2FBlog-(Copy)?node-id=0%3A1&t=F8ssGsDdCOuKwdTz-0
+         ( https://www.figma.com/file/49reLMuUzlBYCFpoS3RDl7/Learning-Journal%2FBlog-(Copy)?node-id=0%3A1&t=F8ssGsDdCOuKwdTz-0)
 
 
 **2.Ordering app:**
 
-          **https://food-ordering-appl.netlify.app/**
+          (https://food-ordering-appl.netlify.app/)
 
            figma
 
-          file:https://www.figma.com/file/N66TG6OUpwbJqYUiBFiUPZ/Mobile-Restaurant-Menu-(Copy)?t=wEjpb5Eoen3GqK1S-0
+          file:
+          
+          (https://www.figma.com/file/N66TG6OUpwbJqYUiBFiUPZ/Mobile-Restaurant-Menu-(Copy)?t=wEjpb5Eoen3GqK1S-0)
 
 **API projects:**
 
@@ -36,6 +38,6 @@ please check the mobile view as well
 
 Desktop:
 
-          https://splendorous-jalebi-7991aa.netlify.app/
+          (https://splendorous-jalebi-7991aa.netlify.app/)
 
 
