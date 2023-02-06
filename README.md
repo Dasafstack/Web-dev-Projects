@@ -6,11 +6,11 @@ React Projects:
 
           Using states and props
 
-**https://polite-blancmange-cd4460.netlify.app/**
+          **https://polite-blancmange-cd4460.netlify.app/**
 
           React static page using props
 
-**https://vocal-custard-f361fa.netlify.app/**
+          **https://vocal-custard-f361fa.netlify.app/**
 
 
 **Fully Responsive design:**
@@ -39,44 +39,5 @@ please check the mobile view as well
      Desktop:
 
 https://splendorous-jalebi-7991aa.netlify.app/
-**I have created clone of few website:**
 
-figma files
-
-1.instagram clone:
-
-https://www.figma.com/file/yZkVono1MsBq8LtkISvja2/Oldagram-(Copy)?t=jB4znngfIuICos47-0
-
-screenshot:![image](https://user-images.githubusercontent.com/121917455/212187424-5b3805e4-97a3-423f-9683-a665b0964aa1.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Design:
-1.https://www.figma.com/file/oFajJFk79963TALbkBzsHV/Random-Password-Generator-(New-version)-(Copy)?t=jB4znngfIuICos47-0
 
