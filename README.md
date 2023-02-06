@@ -1,8 +1,8 @@
 # Web-dev-Projects
 
-React Projects:
+**React Projects:**
 
-Food ordering app:
+****Food ordering app:
 
           Using states and props.Desktop
 
@@ -14,6 +14,7 @@ Food ordering app:
 please check the mobile view as well
 
 **1.Learning journal**
+
           ** https://effortless-kringle-e60bf8.netlify.app/**
 
           figmafile:
@@ -22,6 +23,7 @@ please check the mobile view as well
 
 
 **2.Ordering app:**
+
           **https://food-ordering-appl.netlify.app/**
 
            figma
