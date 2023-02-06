@@ -2,13 +2,13 @@
 
 React Projects:
 
-          Food ordering app:
+Food ordering app:
 
           Using states and props
 
           **https://polite-blancmange-cd4460.netlify.app/**
 
-          React static page using props
+React static page using props
 
           **https://vocal-custard-f361fa.netlify.app/**
 
