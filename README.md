@@ -4,7 +4,7 @@
 
 **Food ordering app:**
 
- Using states and props.
+ Using unified states and props.
  
  Desktop
 
