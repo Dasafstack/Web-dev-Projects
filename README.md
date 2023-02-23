@@ -4,7 +4,7 @@
 
 **Food ordering app:**
 
- Using unified states and props.
+ Using unified state and UseEffect.
  
  Desktop
 
