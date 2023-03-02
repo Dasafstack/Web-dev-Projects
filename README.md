@@ -37,7 +37,5 @@ Desktop:
 
 https://splendorous-jalebi-7991aa.netlify.app/
 
-Worked on the creating dashboard for google home screen
 
-![image](https://user-images.githubusercontent.com/121917455/222517407-0a1ea1fe-4dab-4ae4-a928-618f2c2a53ec.png)
 
