@@ -2,9 +2,9 @@
 
 **React Projects:**
 
-**Quiz-App:""
+**Quiz-App:**
 
-***Using react hooks like unified state , useEffect and Omtb api***
+***Using react hooks like unified state , useEffect and Omtb api for desktop***
 
 https://funny-mochi-5d1ea0.netlify.app/
 
