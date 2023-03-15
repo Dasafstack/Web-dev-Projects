@@ -23,7 +23,7 @@ Figma file:
 https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?t=lelaDXuRPYNf9iZZ-0
 
 ---
-
+***
 *Fully Responsive design with dummy data:*
 
 ***Desgined for all the screen size***
