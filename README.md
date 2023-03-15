@@ -4,15 +4,18 @@
 
   ##### Using react hooks like unified state , useEffect and figma desgin file,Opentdb api #####
 
-```1. Quiz-App:```
+```1. Food ordering app:```
+ 
+  [Link to the food-app -React](https://polite-blancmange-cd4460.netlify.app/) 
+  
+  ---
+```2. Quiz-App:```
 
   [Link to the Quiz-App -React](https://funny-mochi-5d1ea0.netlify.app/)
   
   
  ***
-```2. Food ordering app:```
- 
-  [Link to the food-app -React](https://polite-blancmange-cd4460.netlify.app/) 
+
 
 ---
 ### Fully Responsive design with dummy data: ###
