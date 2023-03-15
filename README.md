@@ -2,9 +2,9 @@
 
 ### React Projects: ###
 
-```1. Quiz-App:```
+  ##### Using react hooks like unified state , useEffect and figma desgin file,Opentdb api #####
 
-  ##### Using react hooks like unified state , useEffect. #####
+```1. Quiz-App:```
 
   [Link to the Quiz-App -React](https://funny-mochi-5d1ea0.netlify.app/)
   
@@ -17,7 +17,7 @@
 ---
 ### Fully Responsive design with dummy data: ###
 
-```Learning journal```
+```3.Learning journal```
 
 ***Desgined for all the screen size***
 
