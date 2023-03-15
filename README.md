@@ -32,7 +32,7 @@ Figma file:
 
 ***Desgined for all the screen size***
 
-[Link to the Responsive design-Vanilla js](https://effortless-kringle-e60bf8.netlify.app/)
+[Link to the Responsive design](https://effortless-kringle-e60bf8.netlify.app/)
 
 
 
