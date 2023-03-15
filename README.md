@@ -2,7 +2,7 @@
 
 **React Projects:**
 
-**1. Quiz-App:**
+*1. Quiz-App:*
 
 ***Using react hooks like unified state , useEffect and Opentdb api key***
 
@@ -11,8 +11,7 @@ Designed for Desktop screen size:
 https://funny-mochi-5d1ea0.netlify.app/
 
 
-
-** 2. Food ordering app:**
+**2. Food ordering app:**
  
  Designed for Desktop screen size:
  
