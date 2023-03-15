@@ -26,9 +26,9 @@ https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?
 ***
 *Fully Responsive design with dummy data:*
 
-***Desgined for all the screen size***
-
 *Learning journal*
+
+***Desgined for all the screen size***
 
 All devices : https://effortless-kringle-e60bf8.netlify.app/
 
