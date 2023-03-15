@@ -6,13 +6,17 @@
 
 ***Using react hooks like unified state , useEffect and Opentdb api key ***
 
-Desktop : https://funny-mochi-5d1ea0.netlify.app/
+https://funny-mochi-5d1ea0.netlify.app/
+
+Designed for Desktop screen size
 
 **Food ordering app:**
 
  Using unified state and UseEffect.
  
  Desktop : https://polite-blancmange-cd4460.netlify.app/
+ 
+Designed for Desktop screen size
 
 Figma file:
 
@@ -20,6 +24,7 @@ https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?
 
 **Fully Responsive design with dummy data:**
 
+***Desgined for all the screen size***
 
 **Learning journal**
 
