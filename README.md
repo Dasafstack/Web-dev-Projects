@@ -11,7 +11,7 @@ Designed for Desktop screen size:
 https://funny-mochi-5d1ea0.netlify.app/
 
 
-**2. Food ordering app:**
+*2. Food ordering app:*
  
  Designed for Desktop screen size:
  
@@ -22,11 +22,11 @@ Figma file:
 https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?t=lelaDXuRPYNf9iZZ-0
 
 
-**Fully Responsive design with dummy data:**
+*Fully Responsive design with dummy data:*
 
 ***Desgined for all the screen size***
 
-**Learning journal**
+*Learning journal*
 
 All devices : https://effortless-kringle-e60bf8.netlify.app/
 
