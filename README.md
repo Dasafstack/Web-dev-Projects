@@ -1,12 +1,12 @@
 # Web-dev-Projects
 
-**React Projects:**
+### React Projects: ###
 
 ```1. Quiz-App:```
 
 
 
-***Using react hooks like unified state , useEffect and Opentdb api key***
+#####Using react hooks like unified state , useEffect and Opentdb api key#####
 
 Designed for Desktop screen size:
 
