@@ -2,6 +2,12 @@
 
 **React Projects:**
 
+**Quiz-App:""
+
+***Using react hooks like unified state , useEffect and Omtb api***
+
+https://funny-mochi-5d1ea0.netlify.app/
+
 **Food ordering app:**
 
  Using unified state and UseEffect.
@@ -14,9 +20,7 @@ Figma file:
 
 https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?t=lelaDXuRPYNf9iZZ-0
 
-**Fully Responsive design:**
-
-**Content of the site will be updated**
+**Fully Responsive design with dummy data:**
 
 please check the mobile view as well
 
@@ -25,15 +29,6 @@ please check the mobile view as well
 https://effortless-kringle-e60bf8.netlify.app/
 
 
-file:
-
-**API projects:**
-
-Movie finder website using omDB api:
-
-Desktop:
-
-https://splendorous-jalebi-7991aa.netlify.app/
 
 
 
