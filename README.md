@@ -20,11 +20,10 @@ https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?
 
 **Fully Responsive design with dummy data:**
 
-please check the mobile view as well
 
-**1.Learning journal**
+**Learning journal**
 
-https://effortless-kringle-e60bf8.netlify.app/
+All devices : https://effortless-kringle-e60bf8.netlify.app/
 
 
 
