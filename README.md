@@ -4,17 +4,15 @@
 
 **Quiz-App:**
 
-***Using react hooks like unified state , useEffect and Omtb api for desktop***
+***Using react hooks like unified state , useEffect and Opentdb api key ***
 
-https://funny-mochi-5d1ea0.netlify.app/
+Desktop : https://funny-mochi-5d1ea0.netlify.app/
 
 **Food ordering app:**
 
  Using unified state and UseEffect.
  
- Desktop
-
- https://polite-blancmange-cd4460.netlify.app/
+ Desktop : https://polite-blancmange-cd4460.netlify.app/
 
 Figma file:
 
