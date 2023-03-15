@@ -4,19 +4,13 @@
 
 ```1. Quiz-App:```
 
-
-
 ##### Using react hooks like unified state , useEffect and Opentdb api key #####
-
-Designed for Desktop screen size:
 
 [Link to the Quiz-App -React](https://funny-mochi-5d1ea0.netlify.app/)
 
 ---
 
 ```2. Food ordering app:```
- 
- Designed for Desktop screen size:
  
  https://polite-blancmange-cd4460.netlify.app/
 
