@@ -8,7 +8,6 @@
 
 [Link to the Quiz-App -React](https://funny-mochi-5d1ea0.netlify.app/)
 
----
 
 ```2. Food ordering app:```
  
@@ -17,7 +16,6 @@
 [Figma file](https://www.figma.com/file/3zClY2XdTgIRrtAz5zaD8m/Mobile-Restaurant-Menu-(Copy)?t=lelaDXuRPYNf9iZZ-0)
 
 ---
-***
 *Fully Responsive design with dummy data:*
 
 ```Learning journal```
