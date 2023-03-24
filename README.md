@@ -27,6 +27,6 @@
 [Link to the Learning journal](https://effortless-kringle-e60bf8.netlify.app/)
 
 ***
-working on food app to store info in firebase.with restuarant owner login to update items and user login
+working on food app to store info in firebase.with restuarant owner login to update items and user login to order.
 
 
