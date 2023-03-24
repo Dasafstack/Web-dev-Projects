@@ -30,6 +30,6 @@
 
 ### Ongoing project ###
 
-working on food app to store info in firebase and restuarant owner admin page to update menu and user login to order.
+working on food app to store the info in firebase and restuarant owner admin page to update menu and user login to order.
 
 
