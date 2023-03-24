@@ -28,7 +28,8 @@
 
 ***
 
-### ongoing project ###
+### Ongoing project ###
+
 working on food app to store info in firebase.with restuarant owner login to update items and user login to order.
 
 
