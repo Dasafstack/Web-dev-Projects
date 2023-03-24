@@ -2,7 +2,7 @@
 
 ### React Projects: ###
 
-  ##### Using react hooks like unified state , useEffect and figma desgin file,Opentdb api #####
+  ##### Using react hooks like unified state , useEffect ,npm,firebase, figma desgin file,Opentdb api #####
 
 ```1. Food ordering app:```
  
