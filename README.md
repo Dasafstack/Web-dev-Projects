@@ -30,6 +30,6 @@
 
 ### Ongoing project ###
 
-working on food app to store the info in firebase,mirage js for api interception and restuarant owner admin page to update menu and user login to order with the help of react routers.
+working on food app to store the info in firebase,mirage js for api interception and restuarant owner admin page to update menu and user login to order with the help of react routers,pagination.
 
 
