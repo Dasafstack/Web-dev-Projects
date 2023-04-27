@@ -30,6 +30,6 @@
 
 ### Ongoing project ###
 
-working on food app using firebase,node js, Docker image , kubernetes for microservies of each components and react as frontend.
+### working on food app using firebase,node js, Docker image , kubernetes for microservies of each components and react as frontend. ###
 
 
