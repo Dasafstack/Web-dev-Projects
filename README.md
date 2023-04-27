@@ -30,6 +30,6 @@
 
 ### Ongoing project ###
 
-### working on food app using firebase,node js, Docker image ,Amazon AWS ECR for private repo, kubernetes for managing those microservies and react as frontend. ###
+### working on food app using react as frontend,mongo as bd (Docker image) ,node js as backend,Amazon AWS ECR for private repo, kubernetes for managing those microservices. ###
 
 
