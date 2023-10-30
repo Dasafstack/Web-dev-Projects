@@ -4,23 +4,16 @@
 
   ##### Using react hooks like unified state , useEffect ,npm, figma desgin file,Opentdb api #####
 
-```1. Food ordering app:```
- 
-  [Link to the food-app -React](https://polite-blancmange-cd4460.netlify.app/) 
-  
-  ---
-```2. Quiz-App:```
 
-  [Link to the Quiz-App -React](https://funny-mochi-5d1ea0.netlify.app/)
-  
-  
- ***
+Created this site for presenting the Algorithm project
+
+[link](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1)
 
 
 ---
 ### Fully Responsive design with dummy data: ###
 
-```3.Learning journal```
+```Learning journal```
 
 ***Desgined for all the screen size***
 
@@ -30,8 +23,18 @@
 
 ---
 
-Created this site for presenting the Algorithm project
+```Food ordering app:```
+ 
+  [Link to the food-app -React](https://polite-blancmange-cd4460.netlify.app/) 
+  
+  ---
+```Quiz-App:```
 
-[link](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1)
+  [Link to the Quiz-App -React](https://funny-mochi-5d1ea0.netlify.app/)
+  
+  
+ ***
+
+
 
 
