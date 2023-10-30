@@ -15,7 +15,7 @@ Created this site for presenting the Algorithm project
 
 ```Learning journal```
 
-***Desgined for all the screen size***
+***Desgined for all the screen size, please check the mobile view***
 
 [Link to the Learning journal](https://effortless-kringle-e60bf8.netlify.app/)
 
