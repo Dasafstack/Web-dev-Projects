@@ -19,7 +19,7 @@
 
 Created this site for presenting the Algorithm assignment.
 
-[](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1)
+[Demo](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1/code)
 
 
 ---
