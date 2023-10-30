@@ -1,16 +1,6 @@
 # Web-dev-Projects
 
-### React Projects (Bootcamp Projects): ###
-
-  ##### Using react hooks like unified state , useEffect ,npm, figma desgin file,Opentdb api #####
-
-
-Created this site for presenting the Algorithm project
-
-[link](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1)
-
-
----
+#
 ### Fully Responsive design with dummy data: ###
 
 ```Learning journal```
@@ -21,6 +11,18 @@ Created this site for presenting the Algorithm project
 
 ***
 
+
+## React Projects (Bootcamp Projects): ###
+
+  ##### Using react hooks like unified state , useEffect ,npm, figma desgin file,Opentdb api #####
+
+
+Created this site for presenting the Algorithm assignment.
+
+[](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1)
+
+
+---
 ---
 
 ```Food ordering app:```
