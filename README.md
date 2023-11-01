@@ -5,8 +5,8 @@ using React router for one of the presentation in the college
 [site](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1/code)
 
 
-### React webpage with responsive design
+### Responsive design with dummy data
 
 ## check the mobile view
 
-[site](https://effortless-kringle-e60bf8.netlify.app/)]
+[site](https://effortless-kringle-e60bf8.netlify.app/)
