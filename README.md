@@ -7,6 +7,6 @@ using React router for one of the presentation in the college
 
 ### Responsive design with dummy data
 
-## check the mobile view
+###### check the mobile view
 
 [site](https://effortless-kringle-e60bf8.netlify.app/)
