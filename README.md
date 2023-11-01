@@ -1,8 +1,6 @@
-### React webpage hosted on netlify with mirage js as mock API
+### React webpage hosted on netlify with mirage js for mock API
 
-using React router for one of the presentation in the college
-
-[site](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1/code)
+[using React router for one of the presentation in the college](https://thunderous-manatee-d74005.netlify.app/Assignment/solution/1/code)
 
 
 ### Responsive design with dummy data
